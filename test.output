@@ -1,0 +1,12 @@
+............F
+
+Failures:
+
+  1) LayoutLinks GET /layout_links works! (now write some real specs)
+     Failure/Error: get layout_links_path
+     NameError:
+       undefined local variable or method `layout_links_path' for #<RSpec::Core::ExampleGroup::Nested_2::Nested_1:0xb4912d0>
+     # ./spec/requests/layout_links_spec.rb:7:in `block (3 levels) in <top (required)>'
+
+Finished in 0.15853 seconds
+13 examples, 1 failure
